@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Space Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.simon{
+    display: flex;
+    justify-content: center;
+    /* background-color: #454545; */
+
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    background-color: #fff;
+    margin: 1rem;
+    border: 10px solid black;
+    border-radius: 35px;
+
+}
+
+.red{
+    background-color: #e25f5f;
+}
+
+.orange{
+    background-color: #ed9a4b;
+}
+
+.green{
+    background-color: #74d2b7;
+}
+
+.blue{
+    background-color: #73b9d5;
+}
+
+.flash{
+    background-color: #fff;
+}
+
+.userFlesh{
+    background-color: greenyellow;
+}
